@@ -1,0 +1,41 @@
+h1,h2,h3,h4,h5{
+    font-size: 16px;
+    color: rgb(46, 43, 43);
+    text-align: left
+    }
+    .header-photo{
+        background-color: rgb(206, 76, 76);
+        line-height: 1px;
+        font-size: -40px;
+        right: 50px;
+        margin: 3mm;     
+    }
+.left-side{
+    width: 45%;
+height: 70%;
+background-color: white;
+border-right: solid;
+margin: 5mm;
+
+}
+.right-side{
+    width: 45%;
+    background-color: green;
+    height: 70%;
+    float: right;
+    font-size: large;
+    top: right;
+}
+    .inter{
+  color: blue;
+        justify-content: left;
+    }
+    .internet{
+        background-color: white;
+        width: 100%;
+    }
+    .fonction{
+       font-size: 40px; 
+       color: blue;
+    }
+    
